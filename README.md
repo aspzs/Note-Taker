@@ -1,2 +1,1 @@
-# Note-Taker
-Note Taker, Challenge 11 BootCamp
+# Note Taker Starter Code
